@@ -1,0 +1,1 @@
+This is Jone's first git project!
